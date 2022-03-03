@@ -31,3 +31,4 @@ cpu：Intel 10500 65w
 
 igpu核显加速 正常
 
+images/QQ20220303-182334@2x.png
