@@ -31,4 +31,4 @@ cpu：Intel 10500 65w
 
 igpu核显加速 正常
 
-https://github.com/zaj6773/Lenovo-P340-Tiny-Hackintosh/images/QQ20220303-182334@2x.png
+![image](https://github.com/zaj6773/Lenovo-P340-Tiny-Hackintosh/images/QQ20220303-182334@2x.png)
