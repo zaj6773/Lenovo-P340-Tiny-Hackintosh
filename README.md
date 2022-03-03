@@ -21,15 +21,17 @@ cpu：Intel 10500 65w
 
 本efi纯属自用，USB已定制，配置和我类似的朋友可自行取用，不保证一定能够正常运行，下载后请自行添加三码
 
+机型设置为iMac 20，1
+
 功能实现
 
-休眠&唤醒 正常（DP睡眠唤醒均正常，HDMI睡眠唤醒后黑屏）
+  休眠&唤醒 正常（DP睡眠唤醒均正常，HDMI睡眠唤醒后黑屏）
 
-隔空投送 正常
+  隔空投送 正常
 
-独立显卡 正常
+  独立显卡 正常
 
-igpu核显加速 正常
+  igpu核显加速 正常
 
 ![image](https://github.com/zaj6773/Lenovo-P340-Tiny-Hackintosh/blob/main/images/QQ20220303-182334%402x.png)
 ![image](https://github.com/zaj6773/Lenovo-P340-Tiny-Hackintosh/blob/main/images/QQ20220303-182403%402x.png)
